@@ -1,3 +1,4 @@
+'use strict'
 class ExtendedDate extends Date {
 	day = this.getDate();
 	month = this.getMonth();
